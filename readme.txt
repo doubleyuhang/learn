@@ -1,3 +1,3 @@
 git is a very good distributed control software.
 I love git and github.
-git tracks changes.
+git tracks changes of files.
